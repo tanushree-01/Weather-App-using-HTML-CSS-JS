@@ -3,6 +3,3 @@ The weather app I created is built using html, CSS, and JavaScript. I also updat
 
 The images I used are from flaticon, and here is the link: 
 "https://www.flaticon.com/"
-
-To create your own app, you can refer to this link for guidance:
-"https://www.youtube.com/watch?v=MIYQR-Ybrn4&t=572s".
